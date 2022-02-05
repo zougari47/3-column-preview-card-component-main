@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Code](https://your-solution-url.com)
-- [Live Demo](https://your-live-site-url.com)
+- [Code](https://github.com/zougari47/3-column-preview-card-component-main)
+- [Live Demo](https://zougari47.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
